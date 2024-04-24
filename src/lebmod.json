@@ -1,0 +1,17 @@
+{
+    "name": "Cavern Sunken",
+    "description": "Reimagine of the cavern battle map",
+    "authors": "CrumbledHam",
+    "version": "1.0",
+    "id": "crummap1",
+    "type": "map",
+    "pack": "natural",
+    "hassmall": false,
+    "haslarge": false,
+    "haslargeplus": true,
+    "hasremastered": false,
+    "centercoords_small": "0 0 0",
+    "centercoords_large": "0 0 0",
+    "centercoords_largeplus": "52 39 62",
+    "centercoords_remastered": "0 0 0"
+}
